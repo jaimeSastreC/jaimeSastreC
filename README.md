@@ -1,3 +1,3 @@
 👋 Hi, I’m @jaimeSastre
-👀 I’m a web developer
-- 🌱 I’m currently interested by python, Java, JS, Angular, PHP and a lot of more stuff including Workframes as Symfony, Django etc
+👀 I’m a diplomated Web Developer located in Bordeaux 
+- 🌱 I’m currently interested by Python, Java, JS, Angular, PHP and a lot of more stuff including Workframes as Symfony, Django, API etc.
